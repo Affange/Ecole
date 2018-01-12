@@ -1,0 +1,11 @@
+c:\users\hp\source\repos\StudentProject\StudentProject\bin\Debug\StudentProject.exe.config
+c:\users\hp\source\repos\StudentProject\StudentProject\bin\Debug\StudentProject.exe
+c:\users\hp\source\repos\StudentProject\StudentProject\bin\Debug\StudentProject.pdb
+c:\users\hp\source\repos\StudentProject\StudentProject\obj\Debug\StudentProject.csprojResolveAssemblyReference.cache
+c:\users\hp\source\repos\StudentProject\StudentProject\obj\Debug\StudentProject.StudentForm.resources
+c:\users\hp\source\repos\StudentProject\StudentProject\obj\Debug\StudentProject.Properties.Resources.resources
+c:\users\hp\source\repos\StudentProject\StudentProject\obj\Debug\StudentProject.csproj.GenerateResource.Cache
+c:\users\hp\source\repos\StudentProject\StudentProject\obj\Debug\StudentProject.csproj.CoreCompileInputs.cache
+c:\users\hp\source\repos\StudentProject\StudentProject\obj\Debug\StudentProject.exe
+c:\users\hp\source\repos\StudentProject\StudentProject\obj\Debug\StudentProject.pdb
+c:\users\hp\source\repos\StudentProject\StudentProject\obj\Debug\StudentProject.StudentByGrade.resources
